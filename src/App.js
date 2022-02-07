@@ -1,5 +1,6 @@
 import React from "react";
 import About from "./Components/About";
+import Certifications from "./Components/Certifications";
 import Contact from "./Components/Contact";
 import Navbar from "./Components/Navbar";
 import Projects from "./Components/Projects";
@@ -14,6 +15,7 @@ export default function App() {
       <Projects />
       <Skills />
       <Testimonials />
+      <Certifications />
       <Contact />
     </main>
   );
