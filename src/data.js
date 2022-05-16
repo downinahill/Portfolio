@@ -1,9 +1,9 @@
 export const projects = [
   {
     title: "Sharing is Scary",
-    subtitle: "MERN Stack Art Sharing App",
+    subtitle: "Full Stack Art Sharing App",
     description:
-      "This app allows people to share their artwork with others.",
+      "This app utilizes EJS and Multer to allow people to share their artwork with others.",
     image: "Screen Shot 2022-02-06 at 4.24.15 PM.png",
     link: "https://bestartshare.herokuapp.com/",
   },
