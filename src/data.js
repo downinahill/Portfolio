@@ -10,7 +10,7 @@ export const projects = [
   {
     title: "Accompli",
     subtitle: "MERN Stack Productivity App",
-    description: "",
+    description: "Built with MongoDB, Express, React, and Node to provide a place where one can keep track of their goals.",
     image: "Screen Shot 2022-02-05 at 12.51.04 PM.png",
     link: "https://accompli-frontend-app.herokuapp.com/",
   },
