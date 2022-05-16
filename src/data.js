@@ -15,11 +15,11 @@ export const projects = [
     link: "https://accompli-frontend-app.herokuapp.com/",
   },
   {
-    title: "",
-    subtitle: "",
-    description: "",
-    image: "",
-    link: "",
+    title: "Travel Advisor",
+    subtitle: "React app with APIs",
+    description: "A travel advisor app built using React, Google Maps API and Travel Advisor API.",
+    image: "Screen Shot 2022-05-16 at 12.46.31 PM.png",
+    link: "https://stupendous-pie-dc5cf7.netlify.app/",
   },
   {
     title: "",
@@ -30,20 +30,20 @@ export const projects = [
   },
 ];
 
-export const testimonials = [
-  {
-    quote: "",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote: "",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
-  },
-];
+// export const testimonials = [
+//   {
+//     quote: "",
+//     image: "https://randomuser.me/api/portraits/men/1.jpg",
+//     name: "Jesse Hicks",
+//     company: "Zoozle",
+//   },
+//   {
+//     quote: "",
+//     image: "https://randomuser.me/api/portraits/men/94.jpg",
+//     name: "Ruben Alvarez",
+//     company: "Dooble.io",
+//   },
+// ];
 
 export const skills = [
 
@@ -60,5 +60,11 @@ export const skills = [
 export const certifications = [
   {
     image: "https://i.imgur.com/0lREMdO.jpg"
+  }
+]
+
+export const badge = [
+  {
+    image: "https://imgur.com/a/ecag8J7"
   }
 ]
